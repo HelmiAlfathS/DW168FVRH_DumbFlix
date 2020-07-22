@@ -1,0 +1,23 @@
+export const REGISTER = 'REGISTER';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+
+export const GET_CONTACT = 'GET_CONTACT';
+export const ADD_CONTACT = 'ADD_CONTACT';
+
+//FILM
+export const GET_FILM = 'GET_FILM';
+export const ADD_FILM = 'ADD_FILM';
+export const DETAIL_FILM = 'DETAIL_FILM';
+export const DELETE_FILM = 'DELETE_FILM';
+
+// EPISODE
+export const DETAIL_EPISODE = 'DETAIL_EPISODE';
+export const ADD_EPISODE = 'ADD_EPISODE';
+export const DELETE_EPISODE = 'DELETE_EPISODE';
+
+// TRANSAKSI
+export const GET_TRANSACTION = 'GET_TRANSACTION';
+export const CREATE_TRANSACTION = 'CREATE_TRANSACTION';
+export const UPDATE_TRANSACTION = 'UPDATE_TRANSACTION';
+export const DELETE_TRANSACTION = 'DELETE_TRANSACTION';
